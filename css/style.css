@@ -899,13 +899,6 @@ header.shadow {
 .scroll-up:hover {
     opacity: 100%;
 }
-/* @media (min-width: 1200px) {
-    .container-pouplar {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(200px, auto));
-        gap: 20px;
-    }
-} */
 /* Medium */
 @media (min-width: 769px) and (max-width: 992px) {
     .home img {
